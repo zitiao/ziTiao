@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ABAP CS_BOM_EXPL_MAT_V2
+title: CS_BOM_EXPL_MAT_V2函数相关
 key: 20180507
 tags: ABAP SAP MM
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ABAP BAPI_MATERIAL_SAVEDATA
+title: BAPI_MATERIAL_SAVEDATA函数相关
 key: 20180507
 tags: ABAP SAP MM
 ---
